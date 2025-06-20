@@ -2,6 +2,6 @@
 
 可下载以下文件。
 
-zipfiles.zip是代码文件，
+nirsoft.zip是代码文件，
 
 目录.zip是详细介绍，可根据里面步骤完成爬虫下载并保存到MongoDB数据库中。
